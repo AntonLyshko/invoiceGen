@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://anton_admin:KOrAX5BXiJP1QDiS@invoicegen-lshsy.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secretTocken"
+}
