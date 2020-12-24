@@ -17,7 +17,7 @@
     "body-parser": "^1.19.0",
     "chalk": "^2.4.2",
     "config": "^3.2.2",
-    "date-and-time": "^0.13.1",
+    "date-and-time": "^0.14.2",
     "easy-pdf-merge": "^0.2.2",
     "express": "^4.17.1",
     "express-validator": "^6.1.1",
