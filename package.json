@@ -25,7 +25,7 @@
     "formidable": "^1.2.2",
     "get-image-data": "^4.1.0",
     "gravatar": "^1.8.0",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "http": "0.0.0",
     "image-to-base64": "^2.0.1",
     "jsonwebtoken": "^8.5.1",
